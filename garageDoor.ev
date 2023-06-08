@@ -1,0 +1,26 @@
+00:00:00:00 open_request ?
+00:10:20:00 emerg_open ?
+00:25:10:00 input_code 45968
+01:40:35:00 motion ?
+01:41:30:00 input_code 25500
+01:42:60:00 input_code 09870
+01:44:20:00 input_code 11111
+01:45:50:00 light 1
+01:46:05:00 motion ?
+01:47:00:00 light 0
+01:48:00:00 motion ?
+02:30:00:00 input_code 45500
+02:31:30:00 input_code 25500
+02:32:60:00 input_code 09870
+02:33:20:00 input_code 11111
+04:44:80:00 emerg_open ?
+04:45:00:00 alarm_reset 1
+05:30:00:00 input_code 45500
+05:50:30:00 input_code 25500
+05:55:20:00 input_code 09870
+05:56:20:00 input_code 11111
+05:57:10:00 input_code 09870
+
+
+
+
